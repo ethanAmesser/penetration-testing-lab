@@ -23,4 +23,4 @@ This project documents a black-box penetration test conducted on a Linux-based s
 - Demonstrated root privilege escalation and documented mitigation strategies to improve system security.
 
 ## Full Report
-📄 [View Full Report](pentesting-lab.pdf)
+📄 [View Full Report](Pentesting-Lab.pdf)
